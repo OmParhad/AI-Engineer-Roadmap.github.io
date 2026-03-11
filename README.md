@@ -67,7 +67,7 @@ AI Learning Path is an interactive web application designed to guide aspiring AI
 ## 🚀 Getting Started
 
 ### Option 1: Use Hosted Version
-Simply visit the [live demo](https://github.com/OmParhad/AI-Engineer-Roadmap.io) and start tracking!
+Simply visit the [live demo](https://omparhad.github.io/AI-Engineer-Roadmap.github.io/) and start tracking!
 
 ### Option 2: Run Locally
 
@@ -147,7 +147,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 **Omparhad**
 
 - GitHub: @OmParhad 
-- Project Link:(https://github.com/OmParhad/AI-Engineer-Roadmap.io)
+- Project Link:(https://omparhad.github.io/AI-Engineer-Roadmap.github.io/)
 
 ---
 
